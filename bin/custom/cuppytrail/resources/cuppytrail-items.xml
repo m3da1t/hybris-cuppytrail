@@ -37,7 +37,6 @@
       <deployment table="CuppyTrailStadium" typecode="10123"/>
       <attributes>
         <attribute qualifier="code" type="java.lang.String">
-          <defaultvalue></defaultvalue>
           <persistence type="property"/>
           <modifiers optional="false" unique="true"/>
         </attribute>
